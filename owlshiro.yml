@@ -1,0 +1,7 @@
+spring.config.activate.on-profile: local
+name: owlshiro local
+
+---
+
+spring.config.activate.on-profile: dev
+name: owlshiro dev
