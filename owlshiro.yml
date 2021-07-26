@@ -1,5 +1,5 @@
 spring.config.activate.on-profile: local
-name: owlshiro local
+name: owlshiro local changed!
 
 ---
 
